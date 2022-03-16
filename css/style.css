@@ -1,35 +1,34 @@
 .logo {
-    display: block;
-    margin: auto;
+  display: block;
+  margin: auto;
 }
 
 body {
-    background-image: linear-gradient(rgb(226, 187, 187), rgb(192, 138, 136));
+  background-image: linear-gradient(rgb(226, 187, 187), rgb(192, 138, 136));
 }
 
 .container {
-    max-width: 955px;
-    background-color: rgb(168, 206, 183);
-    margin: auto;
-    height: 60vh;
+  max-width: 955px;
+  background-color: rgb(168, 206, 183);
+  margin: auto;
+  height: 60vh;
 }
 
 .message {
-background-color: rgb(136, 172, 189);
-width: 24%;
-padding: 10px;
-margin: 17px 12px;
-border: 2px solid black;
-border-radius: 10px;
+  background-color: rgb(136, 172, 189);
+  width: 24%;
+  padding: 10px;
+  margin: 17px 12px;
+  border: 2px solid black;
+  border-radius: 10px;
 }
 
 .left {
-float: left;
-clear: both;
+  float: left;
+  clear: both;
 }
 
 .right {
-    float: right;
-    clear: both;
-
+  float: right;
+  clear: both;
 }
