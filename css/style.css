@@ -2,3 +2,7 @@
     display: block;
     margin: auto;
 }
+
+body {
+    background-image: linear-gradient(rgb(65, 28, 28), rgb(68, 15, 13));
+}
